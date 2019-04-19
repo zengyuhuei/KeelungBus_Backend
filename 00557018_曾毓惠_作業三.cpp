@@ -1,9 +1,10 @@
 //00557018 3A ´¿·¶´f 
 #include <iostream>     
+
 using namespace std; 
 
  
-class int_array_cell
+class array
 {
 	private:
 		int _counter;
